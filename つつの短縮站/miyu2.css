@@ -299,19 +299,19 @@ body {
     transform: translate(-50%, 10px);
   }
 }
-#textarea {
+p {
   font-family: "Mirza", Verdana, Arial, serif;
   font-size: 36px;
   line-height: 1.2em;
   padding-left: 10px;
 }
 @media (max-width: 767px) {
-  #textarea {
+ p {
     font-size: 24px;
   }
 }
 @media (max-width: 479px) {
-  #textarea {
+  p {
     font-size: 20px;
   }
 }
