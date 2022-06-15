@@ -9,8 +9,8 @@
 function max_num() {
 
     var number1 = prompt("Please enter number 1");
-    number2 = prompt("Please enter number 2");
-    number3 = prompt("Please enter number 3");
+    var number2 = prompt("Please enter number 2");
+    var number3 = prompt("Please enter number 3");
     var num1 = parseFloat(number1);
     var num2 = parseFloat(number2);
     var num3 = parseFloat(number3);
